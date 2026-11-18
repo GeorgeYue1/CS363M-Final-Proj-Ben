@@ -1,0 +1,33 @@
+code,column,name,leaky,non_null
+SP.POP.TOTL,population,"Population, total",False,9275
+SP.POP.GROW,pop_growth_pct,Population growth (annual %),False,9272
+EN.POP.DNST,pop_density,Population density (people per sq. km of land area),False,8975
+SP.URB.TOTL.IN.ZS,urban_pop_pct,Urban population (% of total population),False,9275
+SP.DYN.TFRT.IN,fertility_rate,"Fertility rate, total (births per woman)",False,9275
+SP.DYN.CBRT.IN,birth_rate,"Birth rate, crude (per 1,000 people)",False,9275
+SP.ADO.TFRT,adolescent_fertility,"Adolescent fertility rate (births per 1,000 women ages 15-19)",False,9275
+SP.POP.0014.TO.ZS,pop_0_14_pct,Population ages 0-14 (% of total population),False,9275
+SP.POP.65UP.TO.ZS,pop_65up_pct,Population ages 65 and above (% of total population),False,9275
+EG.ELC.ACCS.ZS,electricity_access_pct,Access to electricity (% of population),False,8122
+EG.CFT.ACCS.ZS,clean_cooking_access_pct,Access to clean fuels and technologies for cooking (% of population),False,6000
+SH.H2O.BASW.ZS,basic_water_pct,People using at least basic drinking water services (% of population),False,6398
+SH.STA.BASS.ZS,basic_sanitation_pct,People using at least basic sanitation services (% of population),False,6363
+IT.NET.USER.ZS,internet_users_pct,Individuals using the Internet (% of population),False,6854
+IT.CEL.SETS.P2,mobile_subs_per100,Mobile cellular subscriptions (per 100 people),False,8610
+NV.AGR.TOTL.ZS,agriculture_gdp_pct,"Agriculture, forestry, and fishing, value added (% of GDP)",False,8054
+NV.IND.TOTL.ZS,industry_gdp_pct,"Industry (including construction), value added (% of GDP)",False,8053
+NV.SRV.TOTL.ZS,services_gdp_pct,"Services, value added (% of GDP)",False,7897
+NE.TRD.GNFS.ZS,trade_gdp_pct,Trade (% of GDP),False,7394
+FP.CPI.TOTL.ZG,inflation_pct,"Inflation, consumer prices (annual %)",False,7683
+SL.AGR.EMPL.ZS,agri_employment_pct,Employment in agriculture (% of total employment) (modeled ILO estimate),False,7981
+SL.TLF.CACT.FE.ZS,female_lfp_pct,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",False,8216
+SH.XPD.CHEX.GD.ZS,health_exp_gdp_pct,Current health expenditure (% of GDP),False,5716
+EN.GHG.CO2.PC.CE.AR5,co2_per_capita,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),False,8785
+EG.USE.ELEC.KH.PC,elec_kwh_per_capita,Electric power consumption (kWh per capita),False,6745
+AG.LND.FRST.ZS,forest_area_pct,Forest area (% of land area),False,8882
+SP.DYN.IMRT.IN,infant_mortality,"Mortality rate, infant (per 1,000 live births)",True,8540
+SH.DYN.MORT,under5_mortality,"Mortality rate, under-5 (per 1,000 live births)",True,8540
+SP.DYN.LE00.IN,life_expectancy,"Life expectancy at birth, total (years)",True,9275
+NY.GDP.PCAP.PP.KD,gdp_pc_ppp,"GDP per capita, PPP (constant 2021 international $)",True,8472
+NY.GNP.PCAP.PP.KD,gni_pc_ppp,"GNI per capita, PPP (constant 2021 international $)",True,5259
+SE.SEC.ENRR,secondary_enrollment,"School enrollment, secondary (% gross)",True,5833
